@@ -1,0 +1,6 @@
+---
+# tasks file for skopeo
+
+- name: Install Skopeo
+  ansible.builtin.package:
+    name: "{{ skopeo_packages }}"

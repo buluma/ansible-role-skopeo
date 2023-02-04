@@ -1,0 +1,5 @@
+---
+# vars file for skopeo
+
+skopeo_packages:
+  - skopeo

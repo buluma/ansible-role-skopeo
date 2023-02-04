@@ -1,0 +1,17 @@
+---
+# This is an example playbook to execute Ansible tests.
+
+- name: verify | all
+  hosts: all
+  remote_user: root
+  become: true
+  tasks:
+    - name: skopeo --version
+      ansible.builtin.command:
+        cmd: skopeo --version
+      register: result
+      changed_when: result is not succeeded
+
+    - name: check version
+      ansible.builtin.debug:
+        var: result.stdout_lines

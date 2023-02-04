@@ -1,0 +1,7 @@
+---
+- name: Converge
+  hosts: all
+  tasks:
+    - name: "Include buluma.skopeo"
+      include_role:
+        name: "buluma.skopeo"
