@@ -1,10 +1,10 @@
-# [skopeo](#skopeo)
+# [Ansible role skopeo](#skopeo)
 
 Install and configure Skopeo on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-skopeo/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-skopeo/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-skopeo/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-skopeo)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/buluma/skopeo)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/skopeo)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-skopeo.svg)](https://github.com/buluma/ansible-role-skopeo/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-skopeo.svg)](https://github.com/buluma/ansible-role-skopeo/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-skopeo.svg)](https://github.com/buluma/ansible-role-skopeo/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-skopeo/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-skopeo/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-skopeo/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-skopeo)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/skopeo)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-skopeo.svg)](https://github.com/buluma/ansible-role-skopeo/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-skopeo.svg)](https://github.com/buluma/ansible-role-skopeo/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-skopeo.svg)](https://github.com/buluma/ansible-role-skopeo/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
